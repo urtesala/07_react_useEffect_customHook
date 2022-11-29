@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "https://pagrindinis.barbora.lt/api/images/GetInventoryImage?id=d0fb9982-06e1-469d-ae79-e7efd69c59a1",
+    "title": "Gerimanto Sūris",
+    "price": 2.99
+  },
+  {
+    "id": 2,
+    "image": "https://pagrindinis.barbora.lt/api/images/GetInventoryImage?id=d0fb9982-06e1-469d-ae79-e7efd69c59a1",
+    "title": "Gerimanto Kamuolys",
+    "price": 2.99
+  },
+  {
+    "id": 5,
+    "image": "https://pagrindinis.barbora.lt/api/images/GetInventoryImage?id=d0fb9982-06e1-469d-ae79-e7efd69c59a1",
+    "title": "Gerimanto Varske",
+    "price": 5.99
+  },
+  {
+    "id": 3,
+    "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.hdnicewallpapers.com%2FWalls%2FBig%2FCat%2FAnimal_Cat_Shocking_Photo.jpg&f=1&nofb=1&ipt=a1c432f856df91c29097a4b5e81125c97f666767f5f73746f0b578556d5cede5&ipo=images",
+    "title": "Duona",
+    "price": 7.99
+  },
+  {
+    "id": 4,
+    "image": "https://pagrindinis.barbora.lt/api/images/GetInventoryImage?id=d0fb9982-06e1-469d-ae79-e7efd69c59a1",
+    "title": "Kiausiniai",
+    "price": 4.99
+  }
+]
